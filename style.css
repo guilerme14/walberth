@@ -2,4 +2,11 @@ p{
     text-align: center;
     margin-top: 5%;
     color: black;
+    font-size: 1.4em;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(to bottom, rgb(42,6,248),#4d4f61);
 }
